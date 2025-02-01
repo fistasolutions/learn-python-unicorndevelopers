@@ -1,4 +1,4 @@
-# 📚 Learn Python – The Ultimate Python Course  
+# 📚 Learn Python – The Ultimate FISTA Official Modren Python Course  
 
 Welcome to **FISTA Official Python Course**, a structured and hands-on Python course designed to take you from beginner to advanced. 🚀  
 
