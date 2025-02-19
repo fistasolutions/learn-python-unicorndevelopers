@@ -89,7 +89,7 @@ An **Integrated Development Environment (IDE)** is a software application that p
 - Integrated terminal.
 - Extensions for additional functionality.
 
-### [Download Visual Studio Code](https://code.visualstudio.com/)
+### [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 
 ---
 
@@ -123,10 +123,24 @@ Python is a versatile, high-level programming language that is easy to learn and
 2. Download the latest version of Python for your operating system.
 3. Run the installer and follow the setup wizard.
    - Ensure you check the box to "Add Python to PATH."
-### Andrew course link:
-https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
+
 ### Verify Installation:
 After installation, open a terminal or command prompt and type:
+
+# Terminal
+
+A **terminal** is a text-based interface that allows users to interact with a computer's operating system by executing commands. It provides direct access to the system's command-line interface (CLI), enabling users to run programs, manage files, configure settings, and automate tasks.
+
+## Key Features
+- Executes **shell commands** (e.g., Bash, PowerShell, Zsh).
+- Allows interaction with the **file system** (navigating directories, creating/deleting files).
+- Supports **scripting and automation** (via shell scripts).
+- Provides **real-time system feedback** and logs command history.
+
+## Common Examples
+- **Linux/macOS:** Terminal, iTerm2, Konsole
+- **Windows:** Command Prompt (`cmd`), PowerShell, Windows Terminal
+
 ```bash
 python --version
 ```
