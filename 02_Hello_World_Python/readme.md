@@ -39,3 +39,66 @@ The `print()` function is used to display text or values on the screen.
 
 ```python
 print("Hello, World!")  # Prints a message to the screen
+```
+
+📌 **Printing Multiple Items**  
+You can print multiple values separated by commas.  
+
+```python
+name = "Alice"
+age = 12
+print("My name is", name, "and I am", age, "years old.")
+```
+
+📌 **Using `end` and `sep` Parameters**  
+- `sep=" "` changes the separator between values.  
+- `end=" "` changes what comes at the end of the line.  
+
+```python
+print("Hello", "Python", sep=" - ")  # Output: Hello - Python
+print("I love coding!", end=" 😊")   # Output: I love coding! 😊
+```
+
+📌 **Printing Special Characters**  
+You can use escape characters like `
+` (new line) and `	` (tab).  
+
+```python
+print("Hello\nWorld!")  # Prints in two lines
+print("Name:\tAlice")   # Adds a tab space
+```
+
+📷 **Suggested Image for Concepts:** *A diagram showing different print outputs with arrows explaining `sep`, `end`, and escape sequences.*  
+
+---
+
+## 🚀 Project Implementation (Hands-on Practice)  
+
+### 🎯 **Building a Simple Chatbot**  
+Let's create a chatbot that responds with printed messages!  
+
+```python
+print("🤖 Hello! I am ChatBot.")
+print("What's your name?")
+name = input()  # User inputs name
+print("Nice to meet you,", name, "!")
+print("How can I help you today?")
+```
+
+📷 **Suggested Image for Project Steps:** *A simple chatbot conversation flowchart with `print()` messages displayed.*  
+
+💡 **Try modifying the chatbot** to respond differently based on user input!  
+
+---
+
+## ✅ Summary of `print()`  
+✔ `print()` is used to display output in Python.  
+✔ You can print multiple values using commas.  
+✔ `sep` and `end` customize output formatting.  
+✔ Escape sequences like `
+` help with formatting.  
+
+### 🎯 **Mini-Challenge:**  
+Modify the chatbot to ask and print the user's favorite color.  
+
+⏭ **Next Lesson:** User Input (`input()`) in Python! 🚀  
