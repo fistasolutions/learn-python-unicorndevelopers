@@ -81,15 +81,15 @@ An **Integrated Development Environment (IDE)** is a software application that p
 
 ---
 
-## What is Visual Studio Code?
-**Visual Studio Code (VS Code)** is a popular, lightweight IDE developed by Microsoft. It supports multiple programming languages and offers extensive customization through extensions.
+## What is Cursor?
+**Cursor** is a modern, AI-powered code editor designed for pair programming. It's built on top of Visual Studio Code and integrates AI capabilities to help developers write, understand, and refactor code faster.
 
 ### Key Features:
-- Lightweight and fast.
-- Integrated terminal.
-- Extensions for additional functionality.
+- AI-powered code generation and editing.
+- Built-in "Chat with your code" feature.
+- Seamlessly forks VS Code with all its extensions.
 
-### [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
+### [Download Cursor](https://cursor.sh/)
 
 ---
 
@@ -104,15 +104,6 @@ An **Integrated Development Environment (IDE)** is a software application that p
 ### [Visit Google Colab](https://colab.research.google.com/)
 
 ---
-
-## Download Anaconda
-**Anaconda** is a free and open-source distribution of Python and R programming languages. It is widely used for data science, machine learning, and scientific computing.
-
-### Steps to Download Anaconda:
-1. Visit the [official Anaconda website](https://www.anaconda.com/products/distribution).
-2. Choose your operating system (Windows, macOS, Linux).
-3. Download the installer and follow the installation instructions.
-
 ---
 
 ## Install Python
